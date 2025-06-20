@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Hello world",
+    "navlinks": [
+      "Startseite",
+      "Über uns",
+      "Dienstleistungen",
+      "Kontakt",
+      "Blog"
+    ]
+  }
+}

@@ -35,8 +35,7 @@ export default async function RootLayout({
   }
 
   return (
-    <html lang={locale || "en"}>
-      {" "}
+    <html lang={locale || "en"} suppressHydrationWarning>
       {/* Ensure locale is applied to html tag */}
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

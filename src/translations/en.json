@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "navlinks": ["Home", "About", "Services", "Contact", "Blog"]
+  }
+}
